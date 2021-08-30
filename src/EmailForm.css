@@ -1,0 +1,194 @@
+@charset "utf-8";
+
+.LoginPhoto {
+  background-image : url(newy2.jpg);
+  /* width: 1845spx; */
+  height: 918px;
+  padding: 68px 142px 68px 143px;
+  opacity: 1;
+}
+
+.insurancePic{
+  width: 600.9px;
+  height: 700px;
+  margin: 0 0 0 -800px;
+  position: absolute;
+  z-index: 9999;
+}
+
+.formDiv{
+  width: 1034px;
+  height: 700px;
+  margin: 0px 0px 0px 601px;
+  opacity: 0.98;
+  background-color: #ffffff;
+  position: absolute;
+}
+
+.JonesPic {
+  width: 180px;
+  height: 100px;
+  margin: 0px 0 0 -100px;
+  position: absolute;
+}
+
+.jonesFormHeader{
+  width: 300px;
+  height: 33px;
+  margin: 110px 0 0 65px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.34px;
+  text-align: center;
+  color: #131523;
+  position: absolute;
+  z-index: 9999;
+}
+
+/* username for login */
+.userName{
+  width: 400px;
+  height: 60px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.34px;
+  text-align: left;
+  margin-top: 170px;
+  border-radius: 10px;
+  border: solid 1px #e6e9f4;
+  background-color: #ffffff;
+  color: black;
+}
+
+.lastName {
+  width: 400px;
+  height: 60px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.34px;
+  text-align: left;
+  margin-top: 5px;
+  border-radius: 10px;
+  border: solid 1px #e6e9f4;
+  background-color: #ffffff;
+  color: black;
+}
+.Email {
+  width: 400px;
+  height: 60px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.34px;
+  text-align: left;
+  margin-top: 5px;
+  border-radius: 10px;
+  border: solid 1px #e6e9f4;
+  background-color: #ffffff;
+  color: black;
+}
+
+.Phone {
+  width: 400px;
+  height: 60px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.34px;
+  text-align: left;
+  margin-top: 5px;
+  border-radius: 10px;
+  border: solid 1px #e6e9f4;
+  background-color: #ffffff;
+  color: black;
+}
+.Subject {
+  width: 400px;
+  height: 60px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.34px;
+  text-align: left;
+  margin-top: 5px;
+  border-radius: 10px;
+  border: solid 1px #e6e9f4;
+  background-color: #ffffff;
+  color: black;
+}
+
+.textMessage {
+  width: 400px;
+  height: 100px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.34px;
+  text-align: left;
+  margin-top: 5px;
+  border-radius: 10px;
+  border: solid 1px #e6e9f4;
+  background-color: #ffffff;
+  color: black;
+}
+
+.submitButton{
+  width: 240px;
+  height: 45px;
+  margin: 140px 0px 0 -320px;
+  border-radius: 10px;
+  background-color: #1d7eb5;
+  position: absolute;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.disableButton{
+  width: 240px;
+  height: 45px;
+  margin: 140px 0px 0 -320px;
+  border-radius: 10px;
+  background-color:  rgba(105, 105, 105,0.5);
+  position: absolute;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: rgb(0, 0, 0, 0.5);
+}
+
